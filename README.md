@@ -103,9 +103,9 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-## MobileRobot Movement Video:
+![WhatsApp Image 2023-11-09 at 19 37 34_6c96955a](https://github.com/Darkwebnew/mobilerobot-openloopcontrol/assets/143114486/d76ed7b1-53f8-46c5-ac67-c400a3dd89d5)
 
-Upload your video in Youtube and paste your video-id here
+## MobileRobot Movement Video:
 
 https://youtube.com/watch?v=Yj-F8mBArS4&feature=shared
 
