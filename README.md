@@ -103,8 +103,6 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
-
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
